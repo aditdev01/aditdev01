@@ -1,16 +1,37 @@
-## Hi there 👋
+# AditDev
 
-<!--
-**aditdev01/aditdev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical developer tools and digital products.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developer tools
+- Web utilities
+- Productivity tools
+- Digital products
+
+## Projects
+
+### JSON Developer Toolkit
+
+A lightweight browser-based toolkit for formatting, validating, minifying, and working with JSON.
+
+**Live Demo:**  
+https://aditdev-json-toolkit.pages.dev/
+
+**Product:**  
+https://payhip.com/b/KGea3
+
+**Source Code:**  
+https://github.com/aditdev01/json-formatter
+
+## Tech Stack
+
+HTML · CSS · JavaScript · Cloudflare Pages
+
+## About
+
+AditDev focuses on building simple, practical tools that solve everyday problems for developers and creators.
+
+---
+
+**AditDev — Developer Tools & Digital Products**
